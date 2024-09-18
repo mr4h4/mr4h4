@@ -28,6 +28,5 @@ I'm always looking for new challenges and opportunities to grow in the tech and 
 Estoy constantemente buscando nuevos retos y oportunidades para crecer en el mundo de la informática y la programación.
 
 ## Contact Me 📬 Contacta conmigo  
-- [LinkedIn](tu-enlace-linkedin) 🤝  
-- [adrianhereder02@gmail.com](mailto:adrianhereder02@gmail.com) 📧  
+- [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-heredero-antonio-660a93328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 🤝
 - [adrianheredev@gmail.com](mailto:adrianheredev@gmail.com) 📧 
