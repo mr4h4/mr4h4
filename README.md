@@ -10,29 +10,18 @@ Mi nombre es Adrián, soy un informático español apasionado por la tecnología
 - He completado estudios en sistemas microinformáticos y redes, lo que me ha proporcionado una sólida base en la infraestructura tecnológica.
 
 ## Skills and Areas of Interest 💻 Habilidades y Áreas de Interés  
-**Languages:**  
-- Python  
-- Bash  
-- JavaScript  
-- HTML  
-- CSS  
+### Languages / Lenguajes  
+- **Python**  
+- **Bash**  
+- **JavaScript**  
+- **HTML**  
+- **CSS**  
 
-**Interests:**  
-- Application development  
-- Ethical hacking  
-- Cybersecurity  
-
-**Lenguajes:**  
-- Python  
-- Bash  
-- JavaScript  
-- HTML  
-- CSS  
-
-**Intereses:**  
-- Desarrollo de aplicaciones  
-- Hacking ético  
-- Ciberseguridad  
+### Interests / Intereses  
+- **Application Development** / **Desarrollo de Aplicaciones**  
+- **Ethical Hacking** / **Hacking Ético**  
+- **Cybersecurity** / **Ciberseguridad**
+-  **Machine Learning**  
 
 ## Goals 🌱 Objetivos  
 I'm always looking for new challenges and opportunities to grow in the tech and programming world.  
