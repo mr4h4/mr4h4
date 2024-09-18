@@ -29,5 +29,5 @@ Estoy constantemente buscando nuevos retos y oportunidades para crecer en el mun
 
 ## Contact Me 📬 Contacta conmigo  
 - [LinkedIn](tu-enlace-linkedin) 🤝  
-- [adrianhereder02@gmail.com](mailto:adrianhereder02@gmail.com) 📧  
-- [adrianheredev@gmail.com](mailto:adrianheredev@gmail.com) 📧  
+- adrianhereder02@gmail.com 📧  
+- adrianheredev@gmail.com 📧  
