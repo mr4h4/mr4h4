@@ -25,6 +25,7 @@ Mi nombre es Adrián, soy un informático español apasionado por la tecnología
 
 ## Goals 🌱 Objetivos  
 I'm always looking for new challenges and opportunities to grow in the tech and programming world.  
+
 Estoy constantemente buscando nuevos retos y oportunidades para crecer en el mundo de la informática y la programación.
 
 ## Contact Me 📬 Contacta conmigo  
