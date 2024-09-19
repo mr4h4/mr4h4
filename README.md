@@ -12,7 +12,7 @@ Mi nombre es Adrián, soy un informático español apasionado por la tecnología
 
 ## Skills and Areas of Interest 💻 Habilidades y Áreas de Interés  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-here-develop&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=here-develop&layout=compact" alt="Top Langs" />
 </div>
 
 ### Interests / Intereses  
