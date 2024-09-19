@@ -11,13 +11,7 @@ Mi nombre es Adrián, soy un informático español apasionado por la tecnología
 - He completado estudios en sistemas microinformáticos y redes, lo que me ha proporcionado una sólida base en la infraestructura tecnológica.
 
 ## Skills and Areas of Interest 💻 Habilidades y Áreas de Interés  
-### Languages / Lenguajes  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=here-develop&layout=compact)
-- **Python**  
-- **Bash**  
-- **JavaScript**  
-- **HTML**  
-- **CSS**  
 
 ### Interests / Intereses  
 - **Application Development** / **Desarrollo de Aplicaciones**  
