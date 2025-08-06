@@ -1,21 +1,3 @@
-# Hello, I'm mr4h4 👋  
-My name is Adrián, im a passionate Spanish IT professional focused on technology and innovation.  
-
-Mi nombre es Adrián, soy un informático español apasionado por la tecnología y la innovación.
-
-## Education 🎓 Formación  
-**Microcomputer Systems and Networks**  
-- I have completed studies in microcomputer systems and networks, providing me with a solid foundation in tech infrastructure.  
-
-**Sistemas Microinformáticos y Redes**  
-- He completado estudios en sistemas microinformáticos y redes, lo que me ha proporcionado una sólida base en la infraestructura tecnológica.
-
-### Interests / Intereses  
-- **Application Development** / **Desarrollo de Aplicaciones**  
-- **Ethical Hacking** / **Hacking Ético**  
-- **Cybersecurity** / **Ciberseguridad**
--  **Machine Learning**  
-
 ## Skills and Areas of Interest 💻 Habilidades y Áreas de Interés  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr4h4&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&bg_color=0d1117&border_color=ffffff&icon_color=ff005c"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mr4h4&title_color=ffffff&text_color=ffffff&bg_color=0d1117&border_color=ffffff&icon_color=ff005c"/>
